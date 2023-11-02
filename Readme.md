@@ -12,13 +12,13 @@ Before you get started, make sure you have Go installed on your machine. You can
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-web-server.git
+   git clone https://github.com/tushargarg0987/gin-web-server.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd your-web-server
+   cd gin-web-server
    ```
 
 3. Install the required dependencies using Go Modules:
